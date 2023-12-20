@@ -23,7 +23,7 @@ tello.move_up(20)
 tello.set_speed(20)
 
 
-tello.move_forward(123)
+tello.move_forward(120)
 tello.land()
 time.sleep(3)
 tello.takeoff()
